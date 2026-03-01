@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Free 2025 Gaming Giveaways & Skin Codes</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #0f0f1a;
+      color: #e0e0ff;
+      line-height: 1.5;
+    }
+    .container { max-width: 900px; margin: 0 auto; padding: 0 20px; }
+
+    header {
+      text-align: center;
+      padding: 80px 20px 60px;
+      background: linear-gradient(135deg, #6e48aa 0%, #00d2ff 100%);
+    }
+    header h1 {
+      font-size: 3.1rem;
+      margin-bottom: 16px;
+      color: white;
+      text-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    }
+    header p {
+      font-size: 1.35rem;
+      max-width: 720px;
+      margin: 0 auto 40px;
+      color: #f0f0ff;
+    }
+
+    .form-box {
+      background: rgba(255,255,255,0.07);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 16px;
+      padding: 50px 40px;
+      max-width: 580px;
+      margin: 0 auto 60px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+    }
+    .form-box input {
+      width: 100%;
+      padding: 16px 20px;
+      margin: 12px 0;
+      border: 1px solid #444;
+      border-radius: 10px;
+      background: #1a1a2e;
+      color: white;
+      font-size: 1.1rem;
+    }
+    .form-box input::placeholder { color: #aaa; }
+    .btn {
+      display: block;
+      width: 100%;
+      background: #ff3366;
+      color: white;
+      font-size: 1.4rem;
+      font-weight: 700;
+      padding: 18px;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      margin-top: 20px;
+      transition: all 0.3s;
+    }
+    .btn:hover { background: #ff1a57; transform: translateY(-3px); }
+
+    .trust {
+      text-align: center;
+      font-size: 1.1rem;
+      color: #a0a0ff;
+      margin: 40px 0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      color: #777;
+      font-size: 0.95rem;
+    }
+    footer a { color: #00d2ff; text-decoration: none; }
+
+    @media (max-width: 640px) {
+      header h1 { font-size: 2.4rem; }
+      header { padding: 60px 15px 40px; }
+      .form-box { padding: 40px 25px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Get Free Skin Codes & Giveaways 2025</h1>
+      <p>Weekly updated list of working free skins, items, beta keys & epic giveaways — sent straight to your inbox. Join 18,000+ gamers already claiming rewards!</p>
+
+      <div class="form-box">
+        <form action="https://your-email-service.com/submit" method="post">
+          <input type="email" name="email" placeholder="Your best email..." required>
+          <input type="text" name="name" placeholder="Gamer tag / name (optional)">
+          <button type="submit" class="btn">GET MY FREE LIST NOW →</button>
+        </form>
+      </div>
+
+      <div class="trust">✓ No spam • Unsubscribe anytime • 100% free</div>
+    </div>
+  </header>
+
+  <footer>
+    <p>Privacy Policy • We respect your inbox • © 2025 YourBrand</p>
+  </footer>
+
+</body>
+</html>
